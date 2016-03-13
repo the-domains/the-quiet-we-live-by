@@ -1,28 +1,18 @@
-name: the quiet we live by
-favicon: null
-layout_spectrum: 0.9504820839501917
-typography_spectrum: 0.050755035132169724
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#C0B8A8'
+    - '#284878'
+    - '#687088'
+    - '#60A0C0'
+    - '#000000'
   brandStrength: 0.6331490473821759
   lightness: 0.5310865149367601
-  saturation: 0.6407220088876784
   rhythmicContrast: 0.961644463473931
+  saturation: 0.6407220088876784
+cta: {}
+layout_spectrum: 0.896929
+name: the quiet we live by
+opengraph: {}
 purpose: []
+typography_spectrum: 0.145833
