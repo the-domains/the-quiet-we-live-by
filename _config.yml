@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.145833
 color:
   brandColors:
     - '#C0B8A8'
@@ -10,9 +10,10 @@ color:
   lightness: 0.5310865149367601
   rhythmicContrast: 0.961644463473931
   saturation: 0.6407220088876784
-cta: {}
-layout_spectrum: 0.896929
-name: the quiet we live by
 opengraph: {}
+layout_spectrum: 0.896929
+analytics: {}
+name: the quiet we live by
+cta: {}
+title: red wind that once
 purpose: []
-typography_spectrum: 0.145833
