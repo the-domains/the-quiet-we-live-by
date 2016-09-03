@@ -1,17 +1,17 @@
-typography_spectrum: 0.145833
+layout_spectrum: 0.7393186346162111
+typography_spectrum: 0.7778925742022693
 color:
   brandColors:
-    - '#C0B8A8'
-    - '#284878'
-    - '#687088'
-    - '#60A0C0'
-    - '#000000'
-  brandStrength: 0.6331490473821759
-  lightness: 0.5310865149367601
-  rhythmicContrast: 0.961644463473931
-  saturation: 0.6407220088876784
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+  brandStrength: 0.3402564120478928
+  lightness: 0.024952911539003253
+  rhythmicContrast: 0.18432352086529136
+  saturation: 0.9082288141362369
 opengraph: {}
-layout_spectrum: 0.896929
 analytics: {}
 author:
   email: orangebird4@yahoo.com
